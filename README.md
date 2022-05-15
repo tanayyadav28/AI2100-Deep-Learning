@@ -36,7 +36,7 @@ These homeworks are the part of the course AI2100 - Deep Learning offered at IIT
 - At the end of last epoch, visualized the features extracted by the network
 
 # HW 5
-- IMplemented a similar CNN as in HW 4 but using the function from PyTorch
+- Implemented a similar CNN as in HW 4 but using the function from PyTorch
 - Used the same backprop methods
 - Applied dropout and batchnormalisation
 
