@@ -30,7 +30,7 @@ These homeworks are the part of the course AI2100 - Deep Learning offered at IIT
 
 # HW 4
 - Created a CNN using the functions defined in HW 3.
-- Trained the CNN on the CIFAR-10 dataset 
+- Trained the CNN on the MNIST 
 - Used a mini-batch approach to update the weights
 - Backprops available: Vanilla SGD, Momentum SGD, RMSProp
 - At the end of last epoch, visualized the features extracted by the network
