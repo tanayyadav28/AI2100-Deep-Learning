@@ -1,6 +1,6 @@
 # Introduction
 
-These homeworks are the part of the course AI2100 - Deep Learning offered at IIT Hyderabad in even semesters.
+These homeworks are the part of the course AI2100 - Deep Learning offered at the Indian Institute of Technology, Hyderabad in even semesters.
 
 # HW 1
 
